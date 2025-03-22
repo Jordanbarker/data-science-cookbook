@@ -1,0 +1,24 @@
+# Table of contents
+# Docs https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: notebooks/python_fundamentals
+  sections:
+  - file: notebooks/package_management
+  - file: notebooks/numpy
+  - file: notebooks/pandas
+  - file: notebooks/object_oriented_programming
+  - file: notebooks/logging
+  - file: notebooks/parallel_processing
+- file: notebooks/anomaly_detection
+- file: notebooks/distributions
+- file: notebooks/evaluation_metrics
+- file: notebooks/optimization
+- file: notebooks/scaling
+- file: notebooks/statistical_tests
+- file: notebooks/time_series
+- file: notebooks/visualizations
+- file: notebooks/uncertainty
+- file: notebooks/cookbook_meta
