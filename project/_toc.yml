@@ -18,6 +18,8 @@ chapters:
 - file: notebooks/optimization
 - file: notebooks/scaling
 - file: notebooks/statistical_tests
+  sections:
+  - file: notebooks/multiple_tests
 - file: notebooks/time_series
 - file: notebooks/visualizations
 - file: notebooks/uncertainty
