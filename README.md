@@ -12,3 +12,6 @@ Pages are build with this command:
 
 Use the `--all` modifier when creating a new page so that the other pages reference it in the TOC.
 > jupyter-book build --all project/ --path-output docs
+
+Then move the files up a couple levels so `/_build/html/` isn't in the url link. 
+> mv docs/_build/html/* docs/
