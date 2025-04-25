@@ -9,9 +9,10 @@ chapters:
   - file: notebooks/package_management
   - file: notebooks/numpy
   - file: notebooks/pandas
-  - file: notebooks/object_oriented_programming
   - file: notebooks/logging
   - file: notebooks/parallel_processing
+  - file: notebooks/object_oriented_programming
+  - file: notebooks/dtypes
 - file: notebooks/anomaly_detection
 - file: notebooks/distributions
 - file: notebooks/evaluation_metrics
